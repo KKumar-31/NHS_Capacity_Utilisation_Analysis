@@ -33,7 +33,7 @@ The analysis was performed in **Python**, covering the following stages:
 |----------|--------------|
 | `actual_duration.csv` | Details of appointment duration and counts by region, class, and date. |
 | `appointments_regional.csv` | Appointment-level data including region, month, status, professional type, appointment mode, and booking lead time. |
-| `national_categories.xlsx` | Appointment data classified by national service categories and settings. |
+| `national_categories.csv` | Appointment data classified by national service categories and settings. |
 | `tweets.csv` | Public Twitter data relating to NHS services for sentiment and engagement analysis. |
 
 
